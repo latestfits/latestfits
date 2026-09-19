@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm LatestFits 👋
 
-<!--
-**latestfits/latestfits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **[LatestFits](https://latestfits.com)** — independent fashion journalism focused on style intelligence, culture, and the art of dressing well.
 
-Here are some ideas to get you started:
+I create thoughtful content around:
+- Style analysis & wardrobe intelligence
+- Celebrity and runway breakdowns
+- Beauty & culture edits
+- Fashion with substance (not just trends)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** [latestfits.com](https://latestfits.com)
+
+---
+
+### Currently Working On
+- Growing LatestFits into a sharp, independent fashion platform
+- Writing deeper style stories and weekly edits
+
+Thanks for stopping by.
