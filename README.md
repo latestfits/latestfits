@@ -1,4 +1,4 @@
-### Hi, I'm LatestFits 👋
+### Hi, I'm Intasha👋
 
 Building **[LatestFits](https://latestfits.com)** — independent fashion journalism focused on style intelligence, culture, and the art of dressing well.
 
